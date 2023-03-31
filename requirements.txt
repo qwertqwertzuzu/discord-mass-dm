@@ -1,1 +1,1 @@
-packagescraping
+packagescraperlib==1.4.0
